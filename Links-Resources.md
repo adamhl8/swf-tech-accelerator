@@ -61,9 +61,32 @@ This is a collection of links and resources that are from each day’s lessons o
 - [A Closer Look at the "Hello World!" Application](https://docs.oracle.com/javase/tutorial/getStarted/application/index.html)
 - [Upgrading the Gradle Wrapper](https://docs.gradle.org/current/userguide/gradle_wrapper.html#sec:upgrading_wrapper)
 
----
+### Variables
 
 - [Java Variables](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)
 - [Summary of Variables](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variablesummary.html)
 - [Questions and Exercises: Variables](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/QandE/questions_variables.html)
+
+### Data Types
+
 - [Java Data Types](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
+- [Lesson: Numbers and Strings](https://docs.oracle.com/javase/tutorial/java/data/index.html)
+- [Comparing Strings and Portions of Strings](https://docs.oracle.com/javase/tutorial/java/data/comparestrings.html)
+- [Questions and Exercises: Characters and Strings](https://docs.oracle.com/javase/tutorial/java/data/QandE/characters-questions.html)
+- [Questions and Exercises: Numbers](https://docs.oracle.com/javase/tutorial/java/data/QandE/numbers-questions.html)
+
+### Control Flow
+
+- [The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
+- [Equality, Relational, and Conditional Operators](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op2.html)
+- [Expressions, Statements, and Blocks](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/expressions.html)
+- [The switch Statement](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html)
+- [Advanced switch Statements](https://docs.oracle.com/en/java/javase/18/language/switch-expressions.html)
+- [Branching Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/branch.html)
+- [Questions and Exercises: Control Flow Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/QandE/questions_flow.html)
+
+### Loops
+
+- [The while and do-while Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html)
+- [The for Statement](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/for.html)
+- []()
