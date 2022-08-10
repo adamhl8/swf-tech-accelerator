@@ -1,1 +1,1 @@
-# swf-tech-accelerator-lessons
+# swf-tech-accelerator
