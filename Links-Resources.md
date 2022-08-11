@@ -93,3 +93,24 @@ This is a collection of links and resources that are from each day’s lessons o
 
 - [The while and do-while Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html)
 - [The for Statement](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/for.html)
+
+### Objects
+
+- [https://docs.oracle.com/javase/tutorial/java/concepts/object.html](What Is an Object?)
+- [https://docs.oracle.com/javase/tutorial/java/javaOO/objectcreation.html](Creating Objects)
+- [https://docs.oracle.com/javase/tutorial/java/javaOO/usingobject.html](Using Objects)
+- [https://docs.oracle.com/javase/tutorial/java/javaOO/QandE/objects-questions.html](Questions and Exercises: Objects)
+
+### Classes
+
+- [https://docs.oracle.com/javase/tutorial/java/concepts/class.html](What Is a Class?)
+- [https://docs.oracle.com/javase/tutorial/java/javaOO/classdecl.html](Declaring Classes)
+- [https://docs.oracle.com/javase/tutorial/java/javaOO/variables.html](Declaring Member Variables)
+- [https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html](Defining Methods)
+- [https://docs.oracle.com/javase/tutorial/java/javaOO/returnvalue.html](Returning a Value from a Method)
+- [https://docs.oracle.com/javase/tutorial/java/javaOO/constructors.html](Providing Constructors for Your Classes)
+- [https://docs.oracle.com/javase/tutorial/java/javaOO/arguments.html](Passing Information to a Method or a Constructor)
+- [https://docs.oracle.com/javase/tutorial/java/javaOO/thiskey.html](Using the this Keyword)
+- [https://docs.oracle.com/javase/tutorial/java/concepts/inheritance.html](What Is Inheritance?)
+- [https://docs.oracle.com/javase/tutorial/java/javaOO/QandE/creating-questions.html](Questions and Exercises: Classes)
+- [https://docs.oracle.com/javase/tutorial/java/concepts/QandE/questions.html](Questions and Exercises: Object-Oriented Programming Concepts)
