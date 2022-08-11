@@ -61,6 +61,10 @@ This is a collection of links and resources that are from each day’s lessons o
 - [A Closer Look at the "Hello World!" Application](https://docs.oracle.com/javase/tutorial/getStarted/application/index.html)
 - [Upgrading the Gradle Wrapper](https://docs.gradle.org/current/userguide/gradle_wrapper.html#sec:upgrading_wrapper)
 
+---
+
+- [Java Modifiers](https://www.w3schools.com/java/java_modifiers.asp)
+
 ### Variables
 
 - [Java Variables](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)
