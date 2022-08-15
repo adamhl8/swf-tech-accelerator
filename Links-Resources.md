@@ -78,6 +78,7 @@ This is a collection of links and resources that are from each day’s lessons o
 - [Comparing Strings and Portions of Strings](https://docs.oracle.com/javase/tutorial/java/data/comparestrings.html)
 - [Questions and Exercises: Characters and Strings](https://docs.oracle.com/javase/tutorial/java/data/QandE/characters-questions.html)
 - [Questions and Exercises: Numbers](https://docs.oracle.com/javase/tutorial/java/data/QandE/numbers-questions.html)
+- [Generic Types](https://docs.oracle.com/javase/tutorial/java/generics/types.html)
 
 ### Control Flow
 
