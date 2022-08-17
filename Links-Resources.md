@@ -80,6 +80,13 @@ This is a collection of links and resources that are from each day’s lessons o
 - [Questions and Exercises: Numbers](https://docs.oracle.com/javase/tutorial/java/data/QandE/numbers-questions.html)
 - [Generic Types](https://docs.oracle.com/javase/tutorial/java/generics/types.html)
 
+---
+
+- [The List Interface](https://docs.oracle.com/javase/tutorial/collections/interfaces/list.html)
+- [List Implementations](https://docs.oracle.com/javase/tutorial/collections/implementations/list.html)
+- [The Map Interface](https://docs.oracle.com/javase/tutorial/collections/interfaces/map.html)
+- [Map Implementations](https://docs.oracle.com/javase/tutorial/collections/implementations/map.html)
+
 ### Control Flow
 
 - [The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
