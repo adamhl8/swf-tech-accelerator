@@ -122,3 +122,14 @@ This is a collection of links and resources that are from each day’s lessons o
 - [https://docs.oracle.com/javase/tutorial/java/concepts/inheritance.html](What Is Inheritance?)
 - [https://docs.oracle.com/javase/tutorial/java/javaOO/QandE/creating-questions.html](Questions and Exercises: Classes)
 - [https://docs.oracle.com/javase/tutorial/java/concepts/QandE/questions.html](Questions and Exercises: Object-Oriented Programming Concepts)
+
+### Data Structures & Algorithms
+
+- [https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html](Lambda Expressions)
+- [https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html](Method References)
+- [https://docs.oracle.com/javase/tutorial/collections/algorithms/index.html](Lesson: Algorithms)
+- [https://docs.oracle.com/javase/tutorial/java/data/autoboxing.html](Autoboxing and Unboxing)
+- [https://docs.oracle.com/javase/tutorial/collections/implementations/list.html](List Implementations)
+- [https://docs.oracle.com/javase/tutorial/collections/implementations/set.html](Set Implementations)
+- [https://docs.oracle.com/javase/tutorial/collections/implementations/map.html](Map Implementations)
+- [https://docs.oracle.com/javase/tutorial/collections/implementations/QandE/questions.html](Questions and Exercises: Implementations)
