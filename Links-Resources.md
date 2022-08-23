@@ -133,3 +133,17 @@ This is a collection of links and resources that are from each day’s lessons o
 - [https://docs.oracle.com/javase/tutorial/collections/implementations/set.html](Set Implementations)
 - [https://docs.oracle.com/javase/tutorial/collections/implementations/map.html](Map Implementations)
 - [https://docs.oracle.com/javase/tutorial/collections/implementations/QandE/questions.html](Questions and Exercises: Implementations)
+
+### Exceptions
+
+- [https://docs.oracle.com/javase/tutorial/essential/exceptions/definition.html](What Is an Exception?)
+- [https://docs.oracle.com/javase/tutorial/essential/exceptions/throwing.html](How to Throw Exceptions)
+- [https://docs.oracle.com/javase/tutorial/essential/exceptions/handling.html](Catching and Handling Exceptions)
+- [https://docs.oracle.com/javase/tutorial/essential/exceptions/catchOrDeclare.html](The Catch or Specify Requirement)
+- [https://docs.oracle.com/javase/tutorial/essential/exceptions/chained.html](Chained Exceptions)
+- [https://docs.oracle.com/javase/tutorial/essential/exceptions/creating.html](Creating Exception Classes)
+- [https://junit.org/junit5/docs/current/user-guide/#writing-tests-assertions](JUnit Assertions)
+- [https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html](The try-with-resources Statement)
+- [https://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html](Unchecked Exceptions — The Controversy)
+- [https://docs.oracle.com/javase/tutorial/essential/exceptions/QandE/questions.html](Questions and Exercises: Exceptions)
+- [https://www.jetbrains.com/help/idea/debugging-code.html](IntelliJ Debugging)
