@@ -122,6 +122,20 @@ This is a collection of links and resources that are from each day’s lessons o
 - [https://docs.oracle.com/javase/tutorial/java/concepts/inheritance.html](What Is Inheritance?)
 - [https://docs.oracle.com/javase/tutorial/java/javaOO/QandE/creating-questions.html](Questions and Exercises: Classes)
 - [https://docs.oracle.com/javase/tutorial/java/concepts/QandE/questions.html](Questions and Exercises: Object-Oriented Programming Concepts)
+- [https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html](Controlling Access to Members of a Class)
+- [https://docs.oracle.com/javase/tutorial/java/javaOO/classvars.html](Understanding Class Members)
+- [https://docs.oracle.com/javase/tutorial/java/javaOO/nested.html](Nested Classes)
+- [https://docs.oracle.com/javase/tutorial/java/javaOO/QandE/nested-questions.html](Questions and Exercises: Nested Classes)
+
+#### Enums
+
+- [https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html](Enum Types)
+
+### Interfaces
+
+- [https://docs.oracle.com/javase/tutorial/java/IandI/createinterface.html](Interfaces)
+- [https://docs.oracle.com/javase/tutorial/java/concepts/interface.html](What Is an Interface?)
+- [https://docs.oracle.com/javase/tutorial/java/IandI/QandE/interfaces-questions.html](Questions and Exercises: Interfaces)
 
 ### Data Structures & Algorithms
 
@@ -147,3 +161,11 @@ This is a collection of links and resources that are from each day’s lessons o
 - [https://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html](Unchecked Exceptions — The Controversy)
 - [https://docs.oracle.com/javase/tutorial/essential/exceptions/QandE/questions.html](Questions and Exercises: Exceptions)
 - [https://www.jetbrains.com/help/idea/debugging-code.html](IntelliJ Debugging)
+
+### Organizing Code
+
+- [https://docs.oracle.com/javase/tutorial/java/concepts/package.html](What Is a Package?)
+- [https://docs.oracle.com/javase/tutorial/java/package/packages.html](Creating and Using Packages)
+- [https://docs.oracle.com/javase/tutorial/java/package/createpkgs.html](Creating a Package)
+- [https://docs.oracle.com/javase/tutorial/java/package/usepkgs.html](Using Package Members)
+- [https://docs.oracle.com/javase/tutorial/java/package/QandE/packages-questions.html](Questions and Exercises: Creating and Using Packages)
