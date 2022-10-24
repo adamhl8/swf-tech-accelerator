@@ -1,5 +1,7 @@
 # TypeScript Intro
 
+**I highly recommend you take the code snippets here and paste them into both JavaScript (.js) and TypeScript (.ts) files (in VSCode) and see the kinds of errors/warnings you get.**
+
 ## What is TypeScript?
 
 TypeScript is a strongly typed superset of JavaScript. There are 3 main aspects to TypeScript:
